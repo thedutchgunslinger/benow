@@ -13,6 +13,7 @@ body {
   font-family: "Asap", sans-serif;
   background: #642d95;
   color: #fff;
+  overflow-x:hidden ;
   
 }
 
