@@ -14,7 +14,11 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>BenowMedia</title>
+        <title>BENOWmedia</title>
+        <meta
+          name="description"
+          content="BENOWmedia is here to help you!."
+        />
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <link rel="shortcut icon" href={Favicon} />
       </Head>
